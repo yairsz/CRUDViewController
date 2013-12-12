@@ -6,6 +6,12 @@
 //  Copyright (c) 2013 Yair Szarf. All rights reserved.
 //
 
+//This view controller is part of the Library Browser App
+//It was written as a response to the code fellows challenge
+//This view controller adds CRUD functionality to the library database
+//if you want to see the whole app go to https://github.com/yairsz/LibraryBrowserYS
+
+
 #import <UIKit/UIKit.h>
 #import "Library.h"
 #import "Shelf.h"
